@@ -34,7 +34,7 @@ kali-tweaks
 
 ### Cherry Tree CTF Template
 
-![alt text](https://github.com/rottaj/config/blob/master/cherry_tree_screenshot.png)
+![alt text](https://github.com/rottaj/config/blob/master/sec/cherry_tree_screenshot.png)
 
 
 
