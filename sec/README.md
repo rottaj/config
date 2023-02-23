@@ -5,6 +5,8 @@
 - [Pentest Book](https://pentestbook.six2dez.com)
 - [Hack Tricks](https://book.hacktricks.xyz/welcome/readme)
 - [Reverse Shell Generator](https://www.revshells.com/)
+- [Online Decompiler](https://dogbolt.org/)
+- [Encoder / Decoder](https://dencode.com/)
 - [Chat GPT](https://openai.com/blog/chatgpt/)
 
 
