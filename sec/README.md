@@ -6,7 +6,7 @@
 - [Hack Tricks](https://book.hacktricks.xyz/welcome/readme)
 - [Reverse Shell Generator](https://www.revshells.com/)
 - [Online Decompiler](https://dogbolt.org/)
-- [Encoder / Decoder](https://dencode.com/)
+- [Cyberchef](https://gchq.github.io/CyberChef/)
 - [Chat GPT](https://openai.com/blog/chatgpt/)
 
 
