@@ -4,6 +4,7 @@
 
 - [Pentest Book](https://pentestbook.six2dez.com)
 - [Hack Tricks](https://book.hacktricks.xyz/welcome/readme)
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [Reverse Shell Generator](https://www.revshells.com/)
 - [Online Decompiler](https://dogbolt.org/)
 - [Cyberchef](https://gchq.github.io/CyberChef/)
