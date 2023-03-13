@@ -25,12 +25,18 @@ apt dist-upgrade
 
 apt full-upgrade
 
+
+
 ```
 
 ```bash
 kali-tweaks
 ```
 
+
+```bash
+apt install kali-desktop-gnome
+```
 
 
 
