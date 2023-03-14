@@ -24,9 +24,6 @@ apt install kali-linux-large
 apt dist-upgrade
 
 apt full-upgrade
-
-
-
 ```
 
 ```bash
