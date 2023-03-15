@@ -6,6 +6,8 @@
 - [Hack Tricks](https://book.hacktricks.xyz/welcome/readme)
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [Reverse Shell Generator](https://www.revshells.com/)
+- [GTFOBins](https://gtfobins.github.io/)
+- [LOLBas](https://lolbas-project.github.io/)
 - [Online Decompiler](https://dogbolt.org/)
 - [Cyberchef](https://gchq.github.io/CyberChef/)
 - [Chat GPT](https://openai.com/blog/chatgpt/)
