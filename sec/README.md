@@ -40,8 +40,10 @@ apt install kali-desktop-gnome
 
 Create new user
 ```bash
-  useradd -m kali <username>
-  usermod -aG sudo <username>
+  useradd -m <username>
+  usermod -a -G sudo <username>
+  usermod -a -G kali <username>
+  passwd <username>
 ```
 
 Change new user shell
