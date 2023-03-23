@@ -48,7 +48,7 @@ Create new user
 
 Change new user shell
 ```bash
-  chsh /usr/bin/zsh <username>
+  chsh --shell /usr/bin/zsh <username>
 ```
   
 
