@@ -38,6 +38,18 @@ kali-tweaks
 apt install kali-desktop-gnome
 ```
 
+Create new user
+```bash
+  useradd -m kali <username>
+  usermod -aG sudo <username>
+```
+
+Change new user shell
+```bash
+  chsh /usr/bin/zsh <username>
+```
+  
+
 
 
 
