@@ -7,6 +7,7 @@
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [Reverse Shell Generator](https://www.revshells.com/)
 - [SQLi cheat sheet](https://portswigger.net/web-security/sql-injection/cheat-sheet)
+- [XSS Payloads](https://github.com/payloadbox/xss-payload-list)
 - [GTFOBins](https://gtfobins.github.io/)
 - [LOLBas](https://lolbas-project.github.io/)
 - [Online Decompiler](https://dogbolt.org/)
