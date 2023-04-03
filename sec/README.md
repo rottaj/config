@@ -2,17 +2,26 @@
 
 ### Useful links:
 
+Reference:
 - [Pentest Book](https://pentestbook.six2dez.com)
 - [Hack Tricks](https://book.hacktricks.xyz/welcome/readme)
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
-- [Reverse Shell Generator](https://www.revshells.com/)
-- [SQLi Portswigger](https://portswigger.net/web-security/sql-injection/cheat-sheet)
-- [SQLi cheat sheet](https://www.invicti.com/blog/web-security/sql-injection-cheat-sheet/)
-- [XSS Payloads](https://github.com/payloadbox/xss-payload-list)
 - [GTFOBins](https://gtfobins.github.io/)
 - [LOLBas](https://lolbas-project.github.io/)
-- [Online Decompiler](https://dogbolt.org/)
+- [Magic File Headers](https://en.wikipedia.org/wiki/List_of_file_signatures)
+
+SQLi:
+- [SQLi Portswigger](https://portswigger.net/web-security/sql-injection/cheat-sheet)
+- [SQLi cheat sheet](https://www.invicti.com/blog/web-security/sql-injection-cheat-sheet/)
+
+
+XSS:
+- [XSS Payloads](https://github.com/payloadbox/xss-payload-list)
+
+Tooling:
+- [Reverse Shell Generator](https://www.revshells.com/)
 - [Cyberchef](https://gchq.github.io/CyberChef/)
+- [Online Decompiler](https://dogbolt.org/)
 - [Chat GPT](https://openai.com/blog/chatgpt/)
 
 
