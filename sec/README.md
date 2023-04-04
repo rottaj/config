@@ -22,6 +22,7 @@ Tooling:
 - [Reverse Shell Generator](https://www.revshells.com/)
 - [Cyberchef](https://gchq.github.io/CyberChef/)
 - [Online Decompiler](https://dogbolt.org/)
+- [DB Fiddle](https://www.db-fiddle.com/)
 - [Chat GPT](https://openai.com/blog/chatgpt/)
 
 
