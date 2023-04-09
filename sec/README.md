@@ -23,6 +23,7 @@ Tooling:
 - [Cyberchef](https://gchq.github.io/CyberChef/)
 - [Online Decompiler](https://dogbolt.org/)
 - [DB Fiddle](https://www.db-fiddle.com/)
+- [Temp Mail](https://temp-mail.org/)
 - [Chat GPT](https://openai.com/blog/chatgpt/)
 
 
