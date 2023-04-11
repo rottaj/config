@@ -21,6 +21,7 @@ XSS:
 Tooling:
 - [Reverse Shell Generator](https://www.revshells.com/)
 - [Cyberchef](https://gchq.github.io/CyberChef/)
+- [Crt.sh](https://crt.sh/)
 - [Online Decompiler](https://dogbolt.org/)
 - [DB Fiddle](https://www.db-fiddle.com/)
 - [Temp Mail](https://temp-mail.org/)
