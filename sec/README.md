@@ -28,6 +28,8 @@ Tooling:
 - [Interactsh](https://app.interactsh.com/#/)
 - [Chat GPT](https://openai.com/blog/chatgpt/)
 
+Maldev:
+- [MalAPI](https://malapi.io/)
 
 
 ### Kali Linux fresh install
