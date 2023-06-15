@@ -26,6 +26,8 @@ Tooling:
 - [DB Fiddle](https://www.db-fiddle.com/)
 - [Temp Mail](https://temp-mail.org/)
 - [Interactsh](https://app.interactsh.com/#/)
+- [Regex101](https://regex101.com/)
+- [Regex Visualizer](https://jex.im/regulex/)
 - [Chat GPT](https://openai.com/blog/chatgpt/)
 
 Maldev:
