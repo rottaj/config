@@ -9,6 +9,7 @@ Reference:
 - [GTFOBins](https://gtfobins.github.io/)
 - [LOLBas](https://lolbas-project.github.io/)
 - [Magic File Headers](https://en.wikipedia.org/wiki/List_of_file_signatures)
+- [Red Team Tools](https://github.com/A-poc/RedTeam-Tools)
 
 SQLi:
 - [SQLi Portswigger](https://portswigger.net/web-security/sql-injection/cheat-sheet)
