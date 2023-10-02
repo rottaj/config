@@ -53,11 +53,24 @@ apt full-upgrade
 kali-tweaks
 ```
 
+### Install Gnome 
 
 ```bash
 apt install kali-desktop-gnome
 ```
 
+### Install Cinnamon
+```
+sudo apt update
+sudo apt install desktop-base cinnamon
+sudo update-alternatives --config x-session-manager
+reboot
+```
+
+### Install lightdm
+```
+sudo apt install lightdm
+```
 Create new user
 ```bash
   useradd -m <username>
