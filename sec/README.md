@@ -53,24 +53,24 @@ apt full-upgrade
 kali-tweaks
 ```
 
-### Install Gnome 
-
-```bash
-apt install kali-desktop-gnome
-```
-
-### Install Cinnamon
+### Install KDE Plasma
 ```
 sudo apt update
-sudo apt install desktop-base cinnamon
+sudo apt install kali-desktop-kde
 sudo update-alternatives --config x-session-manager
 reboot
 ```
 
-### Install lightdm
+### Purge XFCE 
 ```
-sudo apt install lightdm
+sudo apt purge --autoremove kali-desktop-xfce
 ```
+
+### Ricing
+```
+apt install i3
+```
+
 Create new user
 ```bash
   useradd -m <username>
