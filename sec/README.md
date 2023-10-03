@@ -58,12 +58,8 @@ kali-tweaks
 sudo apt update
 sudo apt install kali-desktop-kde
 sudo update-alternatives --config x-session-manager
-reboot
-```
-
-### Purge XFCE 
-```
 sudo apt purge --autoremove kali-desktop-xfce
+reboot
 ```
 
 ### Ricing
